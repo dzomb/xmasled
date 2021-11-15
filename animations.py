@@ -54,8 +54,8 @@ xmasColorGroupRedGreen = (cred, cgreen)
 xmasColorGroupRedWhite = (cred, cwhite) 
 halloweenColorGroupPurpleOrange = ((128,0,128), (250,97,35) ) 
 
-
-levels = (43, 73, 103, 135, 160, 188, 213, 236, 255, 272, 286, 295, 300)
+levels = (10, 20, 30, 40, 50)
+#levels = (43, 73, 103, 135, 160, 188, 213, 236, 255, 272, 286, 295, 300)
 #levels = (43, 73, 103, 135, 160, 188, 213, 236, 255, 272, 286, 245, 250)
 
 #levels = (58, 108, 149, 187, 224, 264, 292, 300)
